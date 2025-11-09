@@ -19,4 +19,21 @@ head: |
   h1, h2, h3, h4, h5, h6 { margin-bottom: 0.5em !important; margin-top: 1.2em !important; }
   ul, ol { margin-bottom: 0.8em !important; }
   li { margin-bottom: 0.3em !important; }
+
+  .sidebar img {
+      width: 100%;
+      max-width: 180px;
+      border-radius: 6px;
+      margin-bottom: 10px;
+    }
+
+    .sidebar {
+      padding-right: 20px;
+    }
+
+    /* Add spacing below the GitHub Pages footer */
+    footer {
+      margin-bottom: 40px;
+    }
+    
   </style>
