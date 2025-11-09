@@ -1,0 +1,22 @@
+title: "Rahul<br>Sreedasyam"
+logo: /RS headshot.jpg
+description: "Ph.D. Candidate<br>in Biomedical Engineering"
+theme: jekyll-theme-minimal
+
+# Custom CSS
+sass:
+  style: compressed
+
+# Add custom styles
+plugins:
+  - jekyll-default-layout
+
+# Custom head content
+head: |
+  <style>
+  body { line-height: 1.3 !important; }
+  p { margin-bottom: 0.8em !important; }
+  h1, h2, h3, h4, h5, h6 { margin-bottom: 0.5em !important; margin-top: 1.2em !important; }
+  ul, ol { margin-bottom: 0.8em !important; }
+  li { margin-bottom: 0.3em !important; }
+  </style>
