@@ -31,7 +31,7 @@ head: |
 
     .sidebar {
       padding-right: 20px;
-      padding-bottom: 40px;  /* adds space below GitHub footer */
+      padding-bottom: 100px;  /* adds space below GitHub footer */
     }
 
     footer {
