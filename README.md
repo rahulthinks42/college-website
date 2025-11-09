@@ -1,6 +1,6 @@
 # Get Into your Dream College!
 
-📧 rsreedas@uci.edu | 🔗 [LinkedIn](https://www.linkedin.com/in/rahul-sreedasyam/) | 📚 [Google Scholar](https://scholar.google.com/citations?user=UVwpaikAAAAJ&hl=en)
+📧 rsreedas@uci.edu | 🔗 [LinkedIn](https://www.linkedin.com/in/rahul-sreedasyam/) 
 
 I’m Rahul, a PhD candidate in Biomedical Engineering. When I applied to college, I didn’t have perfect stats, a private counselor, or Ivy League connections. But I learned how to write essays that *made people care*. That skill helped me land research positions, get into grad school, and earn scholarships. Now I help students do the same, by turning their life stories into powerful essays that actually stand out.
 
