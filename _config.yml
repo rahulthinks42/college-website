@@ -14,26 +14,34 @@ plugins:
 # Custom head content
 head: |
   <style>
-  body { line-height: 1.4 !important; }
-  p { margin-bottom: 0.8em !important; }
-  h1, h2, h3, h4, h5, h6 { margin-bottom: 0.5em !important; margin-top: 1.2em !important; }
-  ul, ol { margin-bottom: 0.8em !important; }
-  li { margin-bottom: 0.3em !important; }
+    body { line-height: 1.4 !important; }
+    p { margin-bottom: 0.8em !important; }
+    h1, h2, h3, h4, h5, h6 { margin-bottom: 0.5em !important; margin-top: 1.2em !important; }
+    ul, ol { margin-bottom: 0.8em !important; }
+    li { margin-bottom: 0.3em !important; }
 
-  .sidebar img {
+    /* Resize and space sidebar image */
+    .sidebar img {
       width: 100%;
       max-width: 180px;
+      height: auto;
       border-radius: 6px;
-      margin-bottom: 10px;
+      margin-bottom: 16px;
     }
 
     .sidebar {
       padding-right: 20px;
+      padding-bottom: 40px;  /* adds space below GitHub footer */
     }
 
-    /* Add spacing below the GitHub Pages footer */
     footer {
-      margin-bottom: 40px;
+      margin-bottom: 60px;  /* ensures spacing on bottom */
     }
-    
+
+    /* Responsive fix for mobile */
+    @media (max-width: 768px) {
+      .sidebar {
+        padding-bottom: 80px;
+      }
+    }
   </style>
