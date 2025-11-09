@@ -1,4 +1,4 @@
-title: "Rahul<br>Sreedasyam"
+title: "Rahul Thinks"
 logo: /RS headshot cropped.jpg
 description: ""
 theme: jekyll-theme-minimal
@@ -14,7 +14,7 @@ plugins:
 # Custom head content
 head: |
   <style>
-  body { line-height: 1.3 !important; }
+  body { line-height: 1.4 !important; }
   p { margin-bottom: 0.8em !important; }
   h1, h2, h3, h4, h5, h6 { margin-bottom: 0.5em !important; margin-top: 1.2em !important; }
   ul, ol { margin-bottom: 0.8em !important; }
