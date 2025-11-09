@@ -14,7 +14,7 @@ I’m Rahul, a PhD candidate in Biomedical Engineering. When I applied to colleg
 
 [**→ Book Now**](https://buy.stripe.com/dRmeVeb4UbdDd3u9Yj6sw00)
 
-### 📚 Full Application Review — *$199*
+### 📚 **Full Application Review** — *$199*
 ✔️ All of your college admissions material  
 ✔️ 3 rounds of edits  
 ✔️ Unlimited comments + structure suggestions  
